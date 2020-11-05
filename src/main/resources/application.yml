@@ -1,0 +1,10 @@
+#weboot:
+#  mailer:
+#    host: smtp.qq.com
+#    port: 25
+#    from: luohaonan0507@qq.com
+#    user: 3347287828
+#    pass: xxxxx
+#    mailSet:
+#      - 1139847491@qq.com
+#      - 490902590@qq.com

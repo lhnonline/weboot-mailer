@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.github.lhnonline.boot.mailer.properties.MailConfigProperties,\
+  com.github.lhnonline.boot.mailer.config.MailAccountConfig,\
+  com.github.lhnonline.boot.mailer.util.Mailer
